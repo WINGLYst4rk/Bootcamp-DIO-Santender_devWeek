@@ -18,4 +18,4 @@ spring:
       dll-auto: none
 
 application:
-  description: Project created for santander - DIO bootcamp dev week
+  description: Project created for santander - DIO bootcamp dev week / Backend
